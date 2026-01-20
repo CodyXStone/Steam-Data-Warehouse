@@ -1,0 +1,1 @@
+This repository highlights my journey into data analytics—from mastering SQL through certification to building interactive Power BI solutions as part of my PL‑300 preparation. Explore the projects that showcase my technical growth and real‑world problem‑solving.
